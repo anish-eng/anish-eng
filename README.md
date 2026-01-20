@@ -31,7 +31,7 @@ No U.S. work sponsorship required.*
 ---
 
 ## 🧠 Key highlights of my previous/current experiences
--
+
 
 - 🏗️ **Software Engineer @ UMass CodeCollab**  
   Building a **mobile-first PWA volunteer management platform** for an NGO using React, Postgres, Docker, and a containerized backend (FastAPI / Node.js).
@@ -45,7 +45,7 @@ No U.S. work sponsorship required.*
 - 🌐 **Open Source Contributor (OSAP)**  
   Contributing to large-scale projects like **freeCodeCamp**, working with real-world GitHub workflows and CI/CD pipelines.
 
-  - 🏗️ **Software Engineer @ Netanalytiks**  
+- 🏗️ **Software Engineer @ Netanalytiks**  
   Building a **Customer Support ticket management system** for the company's flagship AI-tool with 500000 users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB
   to store data
 
