@@ -118,8 +118,3 @@ I love collaborating on:
 - LinkedIn: **linkedin.com/in/anish-ajith-kamath**
 
 ---
-
-<p align="center">
-  <i>“I like building things that work — and keep working.”</i>
-</p>
-
