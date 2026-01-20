@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Anish </h1>
 <h3 align="center">
-CS @ UMass Amherst · SWE · Researcher · Scalable and Distributed systems enthusiast
+CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enthusiast
 </h3>
 
 <p align="center">
@@ -19,18 +19,18 @@ CS @ UMass Amherst · SWE · Researcher · Scalable and Distributed systems enth
 
 ## 🚀 About Me
 
-I’m a **Computer Science undergraduate at UMass Amherst** passionate about building **reliable, thoughtful software systems** that solve real problems.
+I’m a **second year CS undergraduate at UMass Amherst** passionate about building **reliable, thoughtful software systems** that solve real problems.
 
 I enjoy working across the stack—from **backend systems, infrastructure and APIs** to **clean, user-centric frontends**—with a strong focus on **engineering quality, scalability, and real-world usability**. I have gained diverse experiences through SWE internships, building personal projects at hackathons and more. Excited to keep learning and using my skills to make a difference. 
 
-Alongside development, I’m deeply interested in the intersection of **SWE with AI** and **distributed infrastructure** that allows an application to be scaled and used by millions of users.=.
+Alongside development, I’m deeply interested in the intersection of **SWE with AI** and **distributed infrastructure** that allows an application to be scaled and used by millions of users.
 
 💡 *I’m currently seeking Spring / Summer 2026 Software Engineering opportunities (Backend / Full-Stack).  
 No U.S. work sponsorship required.*
 
 ---
 
-## 🧠 Key highlights of what I have worked/working on
+## 🧠 Key highlights of my previous/current experiences
 -
 
 - 🏗️ **Software Engineer @ UMass CodeCollab**  
@@ -48,6 +48,12 @@ No U.S. work sponsorship required.*
   - 🏗️ **Software Engineer @ Netanalytiks**  
   Building a **Customer Support ticket management system** for the company's flagship AI-tool with 500000 users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB
   to store data
+
+- 🧠 **Hackathons** — Participated in multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints.
+
+
+
+  
 
 
 ---
@@ -96,7 +102,7 @@ I love collaborating on:
 - Backend & distributed systems  
 - Full-stack products with real users  
 - AI-driven and applications that are at the intersection of software engineering and AI-development 
-- Open-source and socially impactful tech
+- Open-source and socially impactful tech that makes a difference
 
 📫 **Reach out:**  
 - Email: **anish.kamath2005@gmail.com**  
