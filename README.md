@@ -10,9 +10,7 @@ CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enth
   <a href="mailto:anish.kamath2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://anish-eng.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=github" />
-  </a>
+
 </p>
 
 ---
