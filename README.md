@@ -26,7 +26,7 @@ I enjoy working across the stack—from **backend systems, infrastructure and AP
 Alongside development, I’m deeply interested in the intersection of **SWE with AI** and **distributed infrastructure** that allows an application to be scaled and used by millions of users.
 
 💡 *I’m currently seeking Spring / Summer 2026 Software Engineering opportunities (Backend / Full-Stack).  
-No U.S. work sponsorship required.*
+*
 
 ---
 
