@@ -105,15 +105,6 @@ No U.S. work sponsorship required.*
 
 ---
 
-## 🏆 Highlights
-
-- 🎓 **Chancellor’s Award Recipient**
-- 📚 **Dean’s List & Phi Kappa Phi Honors Society**
-- 🧪 Built production-style systems with **real users and feedback loops**
-- 💬 Strong communicator through **teaching, tutoring, and team leadership**
-
----
-
 ## 🤝 Let’s Connect
 
 I love collaborating on:
