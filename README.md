@@ -76,7 +76,7 @@ No U.S. work sponsorship required.*
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+![AWS-SES](https://img.shields.io/badge/Redis-red?logo=awsses)
 
 ### Databases & Infra
 ![Postgres](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
