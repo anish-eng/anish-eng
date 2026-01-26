@@ -30,7 +30,9 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 
 ## 🧠 Key highlights of my previous/current experiences
 
-
+- 🤖 **Software Engineer Intern @ AI4CW** 
+  Working in collaboration with Massachusetts State agencies to develop and deliver an AI -based product that helps solve community problems.
+  
 - 🏗️ **Software Engineer @ UMass CodeCollab**  
   Building a **mobile-first PWA volunteer management platform** for an NGO using React, Postgres, Docker, and a containerized backend (FastAPI / Node.js).
 
@@ -44,7 +46,7 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
   Contributing to large-scale projects like **freeCodeCamp**, working with real-world GitHub workflows and CI/CD pipelines.
 
 - 🏗️ **Software Engineer @ Netanalytiks**  
-  Building a **Customer Support ticket management system** for the company's flagship AI-tool with 500000 users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB
+  Building a **Customer Support ticket management system** for the company's flagship AI-tool with 500K users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB
   to store data
 
 - 🧠 **Hackathons** — Participated in multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints.
