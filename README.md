@@ -30,7 +30,7 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 
 ## 🧠 Key highlights of my previous/current experiences
 
-- 🤖 **Software Engineering Intern @AI4CW **  
+- 🤖 Software Engineering Intern @AI4CW   
   Working in collaboration with Massachusetts State agencies to develop and deliver an AI -based product that helps solve community problems.
   
 - 🏗️ **Software Engineer @ UMass CodeCollab**  
