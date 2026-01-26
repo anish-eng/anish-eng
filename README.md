@@ -46,10 +46,9 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
   Contributing to large-scale projects like **freeCodeCamp**, working with real-world GitHub workflows and CI/CD pipelines.
 
 - 🏗️ **Software Engineer @ Netanalytiks**  
-  Building a **Customer Support ticket management system** for the company's flagship AI-tool with 500K users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB
-  to store data
+ Led the development of a **Customer Support ticket management system** for the company's flagship AI-tool with 500K users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB to store data
 
-- 🧠 **Hackathons** — Participated in multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints.
+- 🧠 **Hackathons** — Led teams at multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints.
 
 
 
