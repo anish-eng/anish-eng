@@ -31,7 +31,7 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 ## 🧠 Key highlights of my previous/current experiences
 
 - 🤖 Software Engineering Intern @AI4CW   
-  Working in collaboration with Massachusetts State agencies to develop and deliver an AI -based product that helps solve community problems.
+  Working in collaboration with Massachusetts Department of Fish and Game to develop and develop an AI-based data categorisation tool that helps media classification.
   
 - 🏗️ **Software Engineer @ UMass CodeCollab**  
   Building a **mobile-first PWA volunteer management platform** for an NGO using React, Postgres, Docker, and a containerized backend (FastAPI / Node.js).
