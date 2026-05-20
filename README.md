@@ -17,7 +17,7 @@ CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enth
 
 ## 🚀 About Me
 
-I’m a **second year CS undergraduate starting my Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026.** I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
+I’m a second year CS undergraduate starting my Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026. I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
 
 I enjoy working across the stack—from **backend systems, infrastructure and APIs** to **clean, user-centric frontends**—with a strong focus on **engineering quality, scalability, and real-world usability**. I have gained diverse experiences through SWE internships, building personal projects at hackathons and more. Excited to keep learning and using my skills to make a difference. 
 
