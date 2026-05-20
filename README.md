@@ -17,27 +17,30 @@ CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enth
 
 ## 🚀 About Me
 
-I’m a **second year CS undergraduate at UMass Amherst** passionate about building **reliable, thoughtful software systems** that solve real problems.
+I’m a **second year CS undergraduate starting my Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026.** I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
 
 I enjoy working across the stack—from **backend systems, infrastructure and APIs** to **clean, user-centric frontends**—with a strong focus on **engineering quality, scalability, and real-world usability**. I have gained diverse experiences through SWE internships, building personal projects at hackathons and more. Excited to keep learning and using my skills to make a difference. 
 
 Alongside development, I’m deeply interested in the intersection of **SWE with AI** and **distributed infrastructure** that allows an application to be scaled and used by millions of users.
 
-💡 I’m currently seeking Spring / Summer 2026 Software Engineering opportunities (Backend / Full-Stack).  
+💡 I’m currently seeking Fall 2026/Spring 2027 / Summer 2027 Software Engineering opportunities (Backend / Full-Stack).  
 
 
 ---
 
 ## 🧠 Key highlights of my previous/current experiences
 
-- 🤖 Software Engineering Intern @AI4CW   
-  Working in collaboration with Massachusetts Department of Fish and Game to develop and develop an AI-based data categorisation tool that helps media classification.
+- 🔬 Undergraduate Researcher @PLASMA Lab
+  Working on systems research at the Programming Languages and Systems Lab at Umass
   
-- 🏗️ **Software Engineer @ UMass CodeCollab**  
-  Building a **mobile-first PWA volunteer management platform** for an NGO using React, Postgres, Docker, and a containerized backend (FastAPI / Node.js).
+- 🤖 Software Engineering Intern @AI4CW   
+  Working in collaboration with Massachusetts Department of Ecological restoration to develop an AI-based data categorisation tool that helps efficient image search and retrieval.
+  
+- 🏗️ **Software Engineer @ BUILD Umass**  
+  Built a **mobile-first React Native+ Node.js ** mobile app platform for Umass Amherst students that consolidates campus events, local businesses, and resources, previously scattered across 5+ separate sites into a single discovery app.
 
 - 🔬 **Undergraduate Researcher @ WHAT Lab (ERSP)**  
-  Designing an **AI-powered health tracking prototype** using wearable sensor data, HCI principles, and ML-based insights.
+  Designed a comparative user study comparing two **AI-powered health tracking application prototypes** using principles of Human Computer interaction.
 
 - 🧑‍🏫 **Undergraduate Course Assistant & Peer Tutor**  
   Teaching and mentoring **300+ students** in introductory CS and Math courses at UMass.
@@ -48,7 +51,7 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 - 🏗️ **Software Engineer @ Netanalytiks**  
  Led the development of a **Customer Support ticket management system** for the company's flagship AI-tool with 500K users using React.js+Tailwind CSS on the frontend, Golang on the backend and MongoDB to store data
 
-- 🧠 **Hackathons** — Led teams at multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints.
+- 🧠 **Hackathons** — Led teams at multiple hackathons developing strong full-stack projects across diverse set of problem statements and teams. Learnt rapid prototyping and development under constraints. Won Best MongoDB hack at HackHer building Navigate 413
 
 
 
