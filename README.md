@@ -17,7 +17,7 @@ CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enth
 
 ## 🚀 About Me
 
-I’m a second year CS undergraduate starting my Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026. I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
+I’m a second year CS undergraduate starting my junior year Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026. I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
 
 I enjoy working across the stack—from **backend systems, infrastructure and APIs** to **clean, user-centric frontends**—with a strong focus on **engineering quality, scalability, and real-world usability**. I have gained diverse experiences through SWE internships, building personal projects at hackathons and more. Excited to keep learning and using my skills to make a difference. 
 
@@ -30,11 +30,14 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 
 ## 🧠 Key highlights of my previous/current experiences
 
-- 🔬 Undergraduate Researcher @PLASMA Lab
-  Working on systems research at the Programming Languages and Systems Lab at Umass
+- 🔬 Undergraduate Researcher @Object Systems Lab
+  Working on optimizing transactions and developing benchmarks to optimize compiler passes for transactional web assembly.
+
+  - 🤖 AI4ALL Ignite Fellow
+  Working on a team based ML project to predict and classify whether a patient has diabetes from their health questionnaire data.
   
-- 🤖 Software Engineering Intern @AI4CW   
-  Working in collaboration with Massachusetts Department of Ecological restoration to develop an AI-based data categorisation tool that helps efficient image search and retrieval.
+- 🤖 Software Engineering Intern @EOTSS  
+  Working in collaboration with Massachusetts Department of Ecological restoration to develop an AI-based media management tool that helps efficient image search and retrieval.
   
 - 🏗️ **Software Engineer @ BUILD Umass**  
   Built a **mobile-first React Native+ Node.js ** mobile app platform for Umass Amherst students that consolidates campus events, local businesses, and resources, previously scattered across 5+ separate sites into a single discovery app.
