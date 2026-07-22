@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Anish </h1>
 <h3 align="center">
-CS @ UMass Amherst · Software Engineer · Scalable and Distributed systems enthusiast
+CS @ Georgia Tech · Software Engineer · Scalable and Distributed systems enthusiast
 </h3>
 
 <p align="center">
