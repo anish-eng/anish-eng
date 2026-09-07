@@ -17,30 +17,33 @@ CS @ Georgia Tech · Software Engineer · Scalable and Distributed systems enthu
 
 ## 🚀 About Me
 
-I’m a second year CS undergraduate starting my junior year Fall 2026 semester at the **Georgia Institute of Technology** starting August 2026. I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
+I’m a third year CS undergraduate studying at the **Georgia Institute of Technology**. I am passionate about building **reliable, thoughtful software systems** that solve real problems. 
 
 I enjoy working across the stack—from **backend systems, infrastructure and APIs** to **clean, user-centric frontends**—with a strong focus on **engineering quality, scalability, and real-world usability**. I have gained diverse experiences through SWE internships, building personal projects at hackathons and more. Excited to keep learning and using my skills to make a difference. 
 
 Alongside development, I’m deeply interested in the intersection of **SWE with AI** and **distributed infrastructure** that allows an application to be scaled and used by millions of users.
 
-💡 I’m currently seeking Fall 2026/Spring 2027 / Summer 2027 Software Engineering opportunities (Backend / Full-Stack).  
+💡 I’m currently seeking Fall 2026/Spring 2027 / Summer 2027 Software Engineering opportunities (Backend / Full-Stack/Infrastructure).  
 
 
 ---
 
 ## 🧠 Key highlights of my previous/current experiences
 
+- 🏗️ **Software Engineer @ Bits of Good**  
+  Developing a gamified educational LMS platform for PinkStem, a local Atlanta non-profit with the target of making STEM education more accessible to girls.
+
 - 🔬 Undergraduate Researcher @Object Systems Lab
-  Working on optimizing transactions and developing benchmarks to optimize compiler passes for transactional web assembly.
+  Worked on optimizing transactions and developing benchmarks to optimize compiler passes for transactional web assembly.
 
   - 🤖 AI4ALL Ignite Fellow
   Working on a team based ML project to predict and classify whether a patient has diabetes from their health questionnaire data.
   
 - 🤖 Software Engineering Intern @EOTSS  
-  Working in collaboration with Massachusetts Department of Ecological restoration to develop an AI-based media management tool that helps efficient image search and retrieval.
-  
+  Worked in collaboration with the Massachusetts Department of Ecological restoration to develop an AI-based media management platform to tag, store and make 100K images efficiently searchable and retrievable.
+
 - 🏗️ **Software Engineer @ BUILD Umass**  
-  Built a **mobile-first React Native+ Node.js ** mobile app platform for Umass Amherst students that consolidates campus events, local businesses, and resources, previously scattered across 5+ separate sites into a single discovery app.
+  Built a **mobile-first React Native+ Node.js ** mobile app platform for **5000+** Umass Amherst students that consolidates campus events, local businesses, and resources, previously scattered across 5+ separate sites into a single discovery app.
 
 - 🔬 **Undergraduate Researcher @ WHAT Lab (ERSP)**  
   Designed a comparative user study comparing two **AI-powered health tracking application prototypes** using principles of Human Computer interaction.
