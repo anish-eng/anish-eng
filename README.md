@@ -36,7 +36,7 @@ Alongside development, I’m deeply interested in the intersection of **SWE with
 - 🔬 Undergraduate Researcher @Object Systems Lab
   Worked on optimizing transactions and developing benchmarks to optimize compiler passes for transactional web assembly.
 
-  - 🤖 AI4ALL Ignite Fellow
+- 🤖 AI4ALL Ignite Fellow
   Working on a team based ML project to predict and classify whether a patient has diabetes from their health questionnaire data.
   
 - 🤖 Software Engineering Intern @EOTSS  
